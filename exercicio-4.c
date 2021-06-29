@@ -1,3 +1,16 @@
+/*
+Dado um número n inteiro e positivo, dizemos que n é perfeito se n for igual à soma
+de seus divisores positivos diferentes de n e maior que zero. Implemente em
+linguagem C, algoritmo que verifique se um dado número é perfeito.
+Ex: 6 é perfeito.
+6 (resto da divisão por) 1 = 0; (Ok)
+6 (resto da divisão por) 2 = 0; (Ok)
+6 (resto da divisão por) 3 = 0; (Ok)
+6 (resto da divisão por) 4 = 2; (não Ok)
+6 (resto da divisão por) 5 = 1; (não Ok)
+1 + 2 + 3 = 6 (perfeito)
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
