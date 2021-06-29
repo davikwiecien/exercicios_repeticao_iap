@@ -1,3 +1,10 @@
+/*
+Implemente em linguagem C algoritmo que calcule N! (fatorial de N), sendo que o
+valor inteiro de N é fornecido pelo usuário. Sendo que:
+a) 0! = 1, por definição; e
+b) N! = 1 * 2 * 3 * ...* (N – 1) * N.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
