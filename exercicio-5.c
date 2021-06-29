@@ -8,6 +8,8 @@ tamanho do triângulo deve ser informado pelo usuário. Ex: Usuário digitou 5.
 #####
 */
 
+/// DEI UMA INCREMENTADA NESTE EXERCÍCIO, COLOQUEI UM LIMITE DE TAMANHO "100"
+
 #include <stdio.h>
 #include <stdlib.h>
 
