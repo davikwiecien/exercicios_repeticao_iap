@@ -1,5 +1,7 @@
-/*Implemente em linguagem C algoritmo que leia 15 valores numéricos, e selecione
-o maior e o menor valor numérico e mostra o resultado.*/
+/*
+Implemente em linguagem C algoritmo que leia 15 valores numéricos, e selecione
+o maior e o menor valor numérico e mostra o resultado.
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
