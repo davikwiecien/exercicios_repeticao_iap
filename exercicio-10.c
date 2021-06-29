@@ -1,3 +1,9 @@
+/*
+Implemente em linguagem C algoritmo que solicite um número inteiro, com base no
+número fornecido pelo usuário mostre todas as tabuadas (1-10) começando da tabuada 1.
+Exemplo: Usuário digitou 3;
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
