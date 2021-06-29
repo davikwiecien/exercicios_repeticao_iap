@@ -1,3 +1,8 @@
+/*
+Implemente em linguagem C algoritmo que gere números entre 1000 e 1999 e
+mostra aqueles que divididos por 11 dão resto 5.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
