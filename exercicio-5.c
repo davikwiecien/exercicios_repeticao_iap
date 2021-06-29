@@ -1,3 +1,13 @@
+/*
+Implemente em linguagem C algoritmo que desenhe um triângulo na tela, o
+tamanho do triângulo deve ser informado pelo usuário. Ex: Usuário digitou 5.
+#
+##
+###
+####
+#####
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
